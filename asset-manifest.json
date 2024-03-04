@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//github.com/routparam12/paramj_r/static/css/main.f6f4ee7a.css",
+    "main.js": "//github.com/routparam12/paramj_r/static/js/main.b0c36dd6.js",
+    "static/media/HeroImage.jpg": "//github.com/routparam12/paramj_r/static/media/HeroImage.30d8306d6218f44972eb.jpg",
+    "index.html": "//github.com/routparam12/paramj_r/index.html",
+    "main.f6f4ee7a.css.map": "//github.com/routparam12/paramj_r/static/css/main.f6f4ee7a.css.map",
+    "main.b0c36dd6.js.map": "//github.com/routparam12/paramj_r/static/js/main.b0c36dd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6f4ee7a.css",
+    "static/js/main.b0c36dd6.js"
+  ]
+}
